@@ -1,0 +1,4 @@
+C:\Users\user\Documents\GitHub\informatica_dolg\5 работа\programm\winAPI\winAPI\x64\Debug\winAPI.vcxproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\informatica_dolg\5 работа\programm\winAPI\winAPI\x64\Debug\winAPI.AppForm.resources
+C:\Users\user\Documents\GitHub\informatica_dolg\5 работа\programm\winAPI\winAPI\x64\Debug\winAPI.DrawingForm.resources
+C:\Users\user\Documents\GitHub\informatica_dolg\5 работа\programm\winAPI\winAPI\x64\Debug\winAPI.vcxproj.GenerateResource.cache

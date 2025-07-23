@@ -1,0 +1,37 @@
+  winAPI.AppForm.resources - Embedded, ContainedInManifestFile, 
+  winAPI.DrawingForm.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly winAPI, Version=0.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class winAPI.AppForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class ManagedShape: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(Shape*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    System.Drawing.Color Color 'get set' : 
+    System.Drawing.PointF[] Points 'get set' : 
+    Boolean Type 'get set' : 
+  Methods:
+    get_Type(): PrivateScope, Public, HideBySig, SpecialName
+    set_Type(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+    get_Points(): PrivateScope, Public, HideBySig, SpecialName
+    set_Points(PointF[]): PrivateScope, Public, HideBySig, SpecialName
+    get_Color(): PrivateScope, Public, HideBySig, SpecialName
+    set_Color(Color): PrivateScope, Public, HideBySig, SpecialName
+    ToNative(Shape*): PrivateScope, Public, HideBySig
+Class winAPI.DrawingForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(ManagedShape, System.ValueType, System.ValueType, System.ValueType): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName

@@ -1,0 +1,55 @@
+﻿  AppForm.cpp
+C:\Users\user\Documents\GitHub\informatica_dolg\5 работа\programm\winAPI\winAPI\Shape.h(33,80): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+C:\Users\user\Documents\GitHub\informatica_dolg\5 работа\programm\winAPI\winAPI\Shape.h(33,61): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+C:\Users\user\Documents\GitHub\informatica_dolg\5 работа\programm\winAPI\winAPI\AppForm.cpp(142,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\user\Documents\GitHub\informatica_dolg\5 работа\programm\winAPI\winAPI\AppForm.cpp(142,33): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\user\Documents\GitHub\informatica_dolg\5 работа\programm\winAPI\winAPI\AppForm.cpp(144,50): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\user\Documents\GitHub\informatica_dolg\5 работа\programm\winAPI\winAPI\AppForm.cpp(144,36): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\user\Documents\GitHub\informatica_dolg\5 работа\programm\winAPI\winAPI\AppForm.cpp(149,67): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\user\Documents\GitHub\informatica_dolg\5 работа\programm\winAPI\winAPI\AppForm.cpp(149,42): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\user\Documents\GitHub\informatica_dolg\5 работа\programm\winAPI\winAPI\AppForm.cpp(150,66): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\user\Documents\GitHub\informatica_dolg\5 работа\programm\winAPI\winAPI\AppForm.cpp(150,42): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\user\Documents\GitHub\informatica_dolg\5 работа\programm\winAPI\winAPI\AppForm.cpp(152,71): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\user\Documents\GitHub\informatica_dolg\5 работа\programm\winAPI\winAPI\AppForm.cpp(152,55): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\user\Documents\GitHub\informatica_dolg\5 работа\programm\winAPI\winAPI\AppForm.cpp(153,70): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\user\Documents\GitHub\informatica_dolg\5 работа\programm\winAPI\winAPI\AppForm.cpp(153,54): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\user\Documents\GitHub\informatica_dolg\5 работа\programm\winAPI\winAPI\AppForm.cpp(155,61): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\Documents\GitHub\informatica_dolg\5 работа\programm\winAPI\winAPI\AppForm.cpp(156,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\Documents\GitHub\informatica_dolg\5 работа\programm\winAPI\winAPI\AppForm.cpp(160,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\user\Documents\GitHub\informatica_dolg\5 работа\programm\winAPI\winAPI\AppForm.cpp(161,65): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\user\Documents\GitHub\informatica_dolg\5 работа\programm\winAPI\winAPI\AppForm.cpp(161,51): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\user\Documents\GitHub\informatica_dolg\5 работа\programm\winAPI\winAPI\AppForm.cpp(162,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\user\Documents\GitHub\informatica_dolg\5 работа\programm\winAPI\winAPI\AppForm.cpp(163,62): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\user\Documents\GitHub\informatica_dolg\5 работа\programm\winAPI\winAPI\AppForm.cpp(163,48): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\user\Documents\GitHub\informatica_dolg\5 работа\programm\winAPI\winAPI\AppForm.cpp(333,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\Documents\GitHub\informatica_dolg\5 работа\programm\winAPI\winAPI\AppForm.cpp(333,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  DrawingForm.cpp
+C:\Users\user\Documents\GitHub\informatica_dolg\5 работа\programm\winAPI\winAPI\Shape.h(33,80): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+C:\Users\user\Documents\GitHub\informatica_dolg\5 работа\programm\winAPI\winAPI\Shape.h(33,61): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+C:\Users\user\Documents\GitHub\informatica_dolg\5 работа\programm\winAPI\winAPI\DrawingForm.cpp(21,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\user\Documents\GitHub\informatica_dolg\5 работа\programm\winAPI\winAPI\DrawingForm.cpp(21,33): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\user\Documents\GitHub\informatica_dolg\5 работа\programm\winAPI\winAPI\DrawingForm.cpp(23,50): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\user\Documents\GitHub\informatica_dolg\5 работа\programm\winAPI\winAPI\DrawingForm.cpp(23,36): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\user\Documents\GitHub\informatica_dolg\5 работа\programm\winAPI\winAPI\DrawingForm.cpp(28,67): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\user\Documents\GitHub\informatica_dolg\5 работа\programm\winAPI\winAPI\DrawingForm.cpp(28,42): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\user\Documents\GitHub\informatica_dolg\5 работа\programm\winAPI\winAPI\DrawingForm.cpp(29,66): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\user\Documents\GitHub\informatica_dolg\5 работа\programm\winAPI\winAPI\DrawingForm.cpp(29,42): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\user\Documents\GitHub\informatica_dolg\5 работа\programm\winAPI\winAPI\DrawingForm.cpp(31,71): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\user\Documents\GitHub\informatica_dolg\5 работа\programm\winAPI\winAPI\DrawingForm.cpp(31,55): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\user\Documents\GitHub\informatica_dolg\5 работа\programm\winAPI\winAPI\DrawingForm.cpp(32,70): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\user\Documents\GitHub\informatica_dolg\5 работа\programm\winAPI\winAPI\DrawingForm.cpp(32,54): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\user\Documents\GitHub\informatica_dolg\5 работа\programm\winAPI\winAPI\DrawingForm.cpp(34,61): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\Documents\GitHub\informatica_dolg\5 работа\programm\winAPI\winAPI\DrawingForm.cpp(35,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\Documents\GitHub\informatica_dolg\5 работа\programm\winAPI\winAPI\DrawingForm.cpp(39,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\user\Documents\GitHub\informatica_dolg\5 работа\programm\winAPI\winAPI\DrawingForm.cpp(40,65): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\user\Documents\GitHub\informatica_dolg\5 работа\programm\winAPI\winAPI\DrawingForm.cpp(40,51): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\user\Documents\GitHub\informatica_dolg\5 работа\programm\winAPI\winAPI\DrawingForm.cpp(41,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\user\Documents\GitHub\informatica_dolg\5 работа\programm\winAPI\winAPI\DrawingForm.cpp(42,62): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\user\Documents\GitHub\informatica_dolg\5 работа\programm\winAPI\winAPI\DrawingForm.cpp(42,48): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\user\Documents\GitHub\informatica_dolg\5 работа\programm\winAPI\winAPI\DrawingForm.cpp(51,61): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\Documents\GitHub\informatica_dolg\5 работа\programm\winAPI\winAPI\DrawingForm.cpp(52,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\Documents\GitHub\informatica_dolg\5 работа\programm\winAPI\winAPI\DrawingForm.cpp(89,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\Documents\GitHub\informatica_dolg\5 работа\programm\winAPI\winAPI\DrawingForm.cpp(89,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  AppForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  winAPI.vcxproj -> C:\Users\user\Documents\GitHub\informatica_dolg\5 работа\programm\winAPI\x64\Debug\winAPI.exe
